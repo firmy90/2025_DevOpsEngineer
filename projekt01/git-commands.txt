@@ -1,0 +1,5 @@
+git log --oneline
+git commit --amend -m "<message>" 
+git commit -a -m "With option a - all files"
+git log --pretty=oneline
+git switch -c <new_branch_name>
